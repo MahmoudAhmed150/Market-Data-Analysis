@@ -1,12 +1,12 @@
 # Market-Data-Analysis
 Conducted a data analysis project to evaluate market trends and customer behavior for a retail chain.
 
-1-Overview:
+## 1-Overview:
 
 This project is a data analysis dashboard designed to visualize key business metrics such as revenue, cost, gross margin (GM), quantity (QTY), and number of orders. The dashboard includes various charts and graphs to provide insights into GM by top products, teams, channels, and months, along with regional and yearly order data.
 
 
-2-Features:
+## 2-Features:
 
 -Display of total orders, revenue, cost, QTY, and GM percentage.
 
@@ -22,7 +22,7 @@ This project is a data analysis dashboard designed to visualize key business met
 
 
 
-3-Data Insights:
+## 3-Data Insights:
 
 Total orders: 7,991
 
